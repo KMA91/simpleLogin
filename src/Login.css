@@ -1,0 +1,20 @@
+.container {
+  padding: 20px;
+}
+
+.loginForm--buttons {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.loginForm--input {
+  margin: 10px 0;
+}
+
+.loginForm--buttons button {
+  margin: 3px;
+  letter-spacing: 1px;
+  width: 100px;
+}
