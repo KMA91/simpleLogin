@@ -22,3 +22,4 @@ After cloning this repo, developers should ensure to run "npm install" to downlo
 # History of Work
 
 3/20 Project Creation
+3/28 Added Front End DOM validations
