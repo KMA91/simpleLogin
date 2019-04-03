@@ -30,6 +30,11 @@ body {
   min-height: 19px;
 }
 
+.loginForm .valid-spacing {
+  height: 19px;
+  margin-top: 4px;
+}
+
 /* .loginForm--input {
   margin: 0 0 19px;
 } */
